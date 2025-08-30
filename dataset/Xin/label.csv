@@ -1,0 +1,1601 @@
+,donor.id,condition,age,ethnicity,gender,cell_type1
+Sample_1,Non T2D 1,Healthy,23,AA,M,beta
+Sample_2,Non T2D 1,Healthy,23,AA,M,beta
+Sample_3,Non T2D 1,Healthy,23,AA,M,beta
+Sample_4,Non T2D 1,Healthy,23,AA,M,beta
+Sample_5,Non T2D 1,Healthy,23,AA,M,beta
+Sample_6,Non T2D 1,Healthy,23,AA,M,beta
+Sample_7,Non T2D 1,Healthy,23,AA,M,beta
+Sample_8,Non T2D 1,Healthy,23,AA,M,beta
+Sample_9,Non T2D 1,Healthy,23,AA,M,beta
+Sample_10,Non T2D 1,Healthy,23,AA,M,beta
+Sample_11,Non T2D 1,Healthy,23,AA,M,beta
+Sample_12,Non T2D 1,Healthy,23,AA,M,beta
+Sample_13,Non T2D 1,Healthy,23,AA,M,beta
+Sample_14,Non T2D 2,Healthy,32,C,F,beta
+Sample_15,Non T2D 2,Healthy,32,C,F,beta
+Sample_16,Non T2D 2,Healthy,32,C,F,beta
+Sample_17,Non T2D 2,Healthy,32,C,F,beta
+Sample_18,Non T2D 2,Healthy,32,C,F,beta
+Sample_19,Non T2D 2,Healthy,32,C,F,beta
+Sample_20,Non T2D 2,Healthy,32,C,F,beta
+Sample_21,Non T2D 2,Healthy,32,C,F,beta
+Sample_22,Non T2D 2,Healthy,32,C,F,beta
+Sample_23,Non T2D 2,Healthy,32,C,F,beta
+Sample_24,Non T2D 2,Healthy,32,C,F,beta
+Sample_25,Non T2D 2,Healthy,32,C,F,beta
+Sample_26,Non T2D 2,Healthy,32,C,F,beta
+Sample_27,Non T2D 3,Healthy,23,C,F,beta
+Sample_28,Non T2D 3,Healthy,23,C,F,beta
+Sample_29,Non T2D 5,Healthy,27,AA,M,beta
+Sample_30,Non T2D 5,Healthy,27,AA,M,beta
+Sample_31,Non T2D 5,Healthy,27,AA,M,beta.contaminated
+Sample_32,Non T2D 5,Healthy,27,AA,M,beta
+Sample_33,Non T2D 5,Healthy,27,AA,M,beta
+Sample_34,Non T2D 5,Healthy,27,AA,M,beta
+Sample_35,Non T2D 5,Healthy,27,AA,M,beta
+Sample_36,Non T2D 5,Healthy,27,AA,M,beta
+Sample_37,Non T2D 5,Healthy,27,AA,M,beta
+Sample_38,Non T2D 5,Healthy,27,AA,M,beta
+Sample_39,Non T2D 5,Healthy,27,AA,M,beta
+Sample_40,Non T2D 5,Healthy,27,AA,M,beta
+Sample_41,Non T2D 5,Healthy,27,AA,M,beta
+Sample_42,Non T2D 5,Healthy,27,AA,M,beta
+Sample_43,Non T2D 5,Healthy,27,AA,M,beta.contaminated
+Sample_44,Non T2D 5,Healthy,27,AA,M,beta
+Sample_45,Non T2D 5,Healthy,27,AA,M,beta
+Sample_46,Non T2D 5,Healthy,27,AA,M,beta
+Sample_47,Non T2D 5,Healthy,27,AA,M,beta
+Sample_48,Non T2D 5,Healthy,27,AA,M,beta
+Sample_49,Non T2D 5,Healthy,27,AA,M,beta
+Sample_50,Non T2D 5,Healthy,27,AA,M,beta
+Sample_51,Non T2D 5,Healthy,27,AA,M,beta
+Sample_52,Non T2D 5,Healthy,27,AA,M,beta
+Sample_53,Non T2D 6,Healthy,68,C,M,beta
+Sample_54,Non T2D 6,Healthy,68,C,M,beta
+Sample_55,Non T2D 6,Healthy,68,C,M,beta
+Sample_56,Non T2D 6,Healthy,68,C,M,beta
+Sample_57,Non T2D 6,Healthy,68,C,M,beta
+Sample_58,Non T2D 6,Healthy,68,C,M,beta
+Sample_59,Non T2D 6,Healthy,68,C,M,beta
+Sample_60,Non T2D 7,Healthy,29,C,M,beta
+Sample_61,Non T2D 7,Healthy,29,C,M,beta
+Sample_62,Non T2D 7,Healthy,29,C,M,beta
+Sample_63,Non T2D 7,Healthy,29,C,M,beta
+Sample_64,Non T2D 7,Healthy,29,C,M,beta
+Sample_65,Non T2D 7,Healthy,29,C,M,beta
+Sample_66,Non T2D 7,Healthy,29,C,M,beta
+Sample_67,Non T2D 7,Healthy,29,C,M,beta
+Sample_68,Non T2D 7,Healthy,29,C,M,beta
+Sample_69,Non T2D 7,Healthy,29,C,M,beta
+Sample_70,Non T2D 7,Healthy,29,C,M,beta.contaminated
+Sample_71,Non T2D 7,Healthy,29,C,M,beta
+Sample_72,Non T2D 7,Healthy,29,C,M,beta
+Sample_73,Non T2D 7,Healthy,29,C,M,beta.contaminated
+Sample_74,Non T2D 7,Healthy,29,C,M,beta
+Sample_75,Non T2D 7,Healthy,29,C,M,beta
+Sample_76,Non T2D 7,Healthy,29,C,M,beta
+Sample_77,Non T2D 8,Healthy,60,AI,M,beta
+Sample_78,Non T2D 8,Healthy,60,AI,M,beta
+Sample_79,Non T2D 8,Healthy,60,AI,M,beta
+Sample_80,Non T2D 8,Healthy,60,AI,M,beta
+Sample_81,Non T2D 8,Healthy,60,AI,M,beta
+Sample_82,Non T2D 8,Healthy,60,AI,M,beta
+Sample_83,Non T2D 8,Healthy,60,AI,M,beta
+Sample_84,Non T2D 8,Healthy,60,AI,M,beta
+Sample_85,Non T2D 8,Healthy,60,AI,M,beta
+Sample_86,Non T2D 3,Healthy,23,C,F,beta
+Sample_87,Non T2D 3,Healthy,23,C,F,beta
+Sample_88,Non T2D 3,Healthy,23,C,F,beta
+Sample_89,Non T2D 3,Healthy,23,C,F,beta
+Sample_90,Non T2D 3,Healthy,23,C,F,beta
+Sample_91,Non T2D 3,Healthy,23,C,F,beta
+Sample_92,Non T2D 3,Healthy,23,C,F,beta
+Sample_93,Non T2D 3,Healthy,23,C,F,beta
+Sample_94,Non T2D 8,Healthy,60,AI,M,beta.contaminated
+Sample_95,Non T2D 8,Healthy,60,AI,M,beta
+Sample_96,Non T2D 8,Healthy,60,AI,M,beta
+Sample_97,Non T2D 8,Healthy,60,AI,M,beta
+Sample_98,Non T2D 8,Healthy,60,AI,M,beta
+Sample_99,Non T2D 8,Healthy,60,AI,M,beta
+Sample_100,Non T2D 8,Healthy,60,AI,M,beta
+Sample_101,Non T2D 8,Healthy,60,AI,M,beta
+Sample_102,Non T2D 9,Healthy,24,C,F,beta
+Sample_103,Non T2D 9,Healthy,24,C,F,beta
+Sample_104,Non T2D 9,Healthy,24,C,F,beta
+Sample_105,Non T2D 9,Healthy,24,C,F,beta
+Sample_106,Non T2D 9,Healthy,24,C,F,beta
+Sample_107,Non T2D 9,Healthy,24,C,F,beta
+Sample_108,Non T2D 9,Healthy,24,C,F,beta
+Sample_109,Non T2D 10,Healthy,43,C,M,beta
+Sample_110,Non T2D 10,Healthy,43,C,M,beta
+Sample_111,Non T2D 10,Healthy,43,C,M,beta
+Sample_112,Non T2D 10,Healthy,43,C,M,beta
+Sample_113,Non T2D 10,Healthy,43,C,M,beta
+Sample_114,Non T2D 10,Healthy,43,C,M,beta.contaminated
+Sample_115,Non T2D 10,Healthy,43,C,M,beta
+Sample_116,Non T2D 10,Healthy,43,C,M,beta
+Sample_117,Non T2D 10,Healthy,43,C,M,beta
+Sample_118,Non T2D 10,Healthy,43,C,M,beta.contaminated
+Sample_119,Non T2D 10,Healthy,43,C,M,beta
+Sample_120,Non T2D 10,Healthy,43,C,M,beta
+Sample_121,Non T2D 10,Healthy,43,C,M,beta
+Sample_122,Non T2D 10,Healthy,43,C,M,beta
+Sample_123,Non T2D 10,Healthy,43,C,M,beta.contaminated
+Sample_124,Non T2D 10,Healthy,43,C,M,beta
+Sample_125,Non T2D 10,Healthy,43,C,M,beta
+Sample_126,Non T2D 10,Healthy,43,C,M,beta
+Sample_127,Non T2D 10,Healthy,43,C,M,beta
+Sample_128,Non T2D 10,Healthy,43,C,M,beta
+Sample_129,Non T2D 10,Healthy,43,C,M,beta
+Sample_130,Non T2D 10,Healthy,43,C,M,beta
+Sample_131,Non T2D 10,Healthy,43,C,M,beta
+Sample_132,Non T2D 10,Healthy,43,C,M,beta
+Sample_133,Non T2D 10,Healthy,43,C,M,beta
+Sample_134,Non T2D 10,Healthy,43,C,M,beta
+Sample_135,Non T2D 11,Healthy,31,H,F,beta
+Sample_136,Non T2D 11,Healthy,31,H,F,beta
+Sample_137,Non T2D 11,Healthy,31,H,F,beta
+Sample_138,Non T2D 11,Healthy,31,H,F,beta
+Sample_139,Non T2D 11,Healthy,31,H,F,beta
+Sample_140,Non T2D 11,Healthy,31,H,F,beta
+Sample_141,Non T2D 11,Healthy,31,H,F,beta
+Sample_142,Non T2D 11,Healthy,31,H,F,beta
+Sample_143,Non T2D 11,Healthy,31,H,F,beta
+Sample_144,Non T2D 11,Healthy,31,H,F,beta.contaminated
+Sample_145,Non T2D 11,Healthy,31,H,F,beta
+Sample_146,Non T2D 11,Healthy,31,H,F,beta.contaminated
+Sample_147,Non T2D 12,Healthy,56,AA,M,beta
+Sample_148,Non T2D 12,Healthy,56,AA,M,beta
+Sample_149,Non T2D 12,Healthy,56,AA,M,beta
+Sample_150,Non T2D 12,Healthy,56,AA,M,beta
+Sample_151,Non T2D 12,Healthy,56,AA,M,beta
+Sample_152,Non T2D 12,Healthy,56,AA,M,beta
+Sample_153,Non T2D 12,Healthy,56,AA,M,beta
+Sample_154,Non T2D 12,Healthy,56,AA,M,beta
+Sample_155,Non T2D 12,Healthy,56,AA,M,beta
+Sample_156,Non T2D 12,Healthy,56,AA,M,beta
+Sample_157,Non T2D 12,Healthy,56,AA,M,beta
+Sample_158,Non T2D 12,Healthy,56,AA,M,beta
+Sample_159,Non T2D 12,Healthy,56,AA,M,beta
+Sample_160,Non T2D 12,Healthy,56,AA,M,beta
+Sample_161,Non T2D 12,Healthy,56,AA,M,beta
+Sample_162,Non T2D 12,Healthy,56,AA,M,beta
+Sample_163,Non T2D 12,Healthy,56,AA,M,beta
+Sample_164,Non T2D 12,Healthy,56,AA,M,beta
+Sample_165,Non T2D 12,Healthy,56,AA,M,beta
+Sample_166,Non T2D 12,Healthy,56,AA,M,beta
+Sample_167,Non T2D 12,Healthy,56,AA,M,beta
+Sample_168,Non T2D 12,Healthy,56,AA,M,beta
+Sample_169,Non T2D 12,Healthy,56,AA,M,beta
+Sample_170,Non T2D 12,Healthy,56,AA,M,beta
+Sample_171,Non T2D 12,Healthy,56,AA,M,beta.contaminated
+Sample_172,Non T2D 12,Healthy,56,AA,M,beta
+Sample_173,Non T2D 12,Healthy,56,AA,M,beta.contaminated
+Sample_174,Non T2D 12,Healthy,56,AA,M,beta
+Sample_175,Non T2D 12,Healthy,56,AA,M,beta
+Sample_176,Non T2D 12,Healthy,56,AA,M,beta
+Sample_177,Non T2D 12,Healthy,56,AA,M,beta
+Sample_178,Non T2D 12,Healthy,56,AA,M,beta
+Sample_179,Non T2D 12,Healthy,56,AA,M,beta
+Sample_180,Non T2D 12,Healthy,56,AA,M,beta
+Sample_181,Non T2D 12,Healthy,56,AA,M,beta
+Sample_182,Non T2D 12,Healthy,56,AA,M,beta
+Sample_183,Non T2D 12,Healthy,56,AA,M,beta
+Sample_184,Non T2D 12,Healthy,56,AA,M,beta
+Sample_185,Non T2D 12,Healthy,56,AA,M,beta
+Sample_186,Non T2D 12,Healthy,56,AA,M,beta
+Sample_187,Non T2D 12,Healthy,56,AA,M,beta
+Sample_188,Non T2D 12,Healthy,56,AA,M,beta
+Sample_189,Non T2D 12,Healthy,56,AA,M,beta
+Sample_190,Non T2D 12,Healthy,56,AA,M,beta
+Sample_191,Non T2D 12,Healthy,56,AA,M,beta
+Sample_192,Non T2D 12,Healthy,56,AA,M,beta
+Sample_193,Non T2D 12,Healthy,56,AA,M,beta
+Sample_194,Non T2D 12,Healthy,56,AA,M,beta
+Sample_195,Non T2D 12,Healthy,56,AA,M,beta
+Sample_196,Non T2D 12,Healthy,56,AA,M,beta
+Sample_197,Non T2D 4,Healthy,56,C,F,beta
+Sample_198,Non T2D 4,Healthy,56,C,F,beta
+Sample_199,Non T2D 4,Healthy,56,C,F,beta
+Sample_200,Non T2D 4,Healthy,56,C,F,beta
+Sample_201,Non T2D 4,Healthy,56,C,F,beta
+Sample_202,Non T2D 4,Healthy,56,C,F,beta
+Sample_203,Non T2D 4,Healthy,56,C,F,beta
+Sample_204,Non T2D 4,Healthy,56,C,F,beta.contaminated
+Sample_205,Non T2D 4,Healthy,56,C,F,beta
+Sample_206,Non T2D 4,Healthy,56,C,F,beta
+Sample_207,Non T2D 4,Healthy,56,C,F,beta
+Sample_208,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_209,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_210,Non T2D 1,Healthy,23,AA,M,alpha.contaminated
+Sample_211,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_212,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_213,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_214,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_215,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_216,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_217,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_218,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_219,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_220,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_221,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_222,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_223,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_224,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_225,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_226,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_227,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_228,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_229,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_230,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_231,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_232,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_233,Non T2D 1,Healthy,23,AA,M,alpha.contaminated
+Sample_234,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_235,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_236,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_237,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_238,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_239,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_240,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_241,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_242,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_243,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_244,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_245,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_246,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_247,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_248,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_249,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_250,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_251,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_252,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_253,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_254,Non T2D 1,Healthy,23,AA,M,alpha.contaminated
+Sample_255,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_256,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_257,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_258,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_259,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_260,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_261,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_262,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_263,Non T2D 1,Healthy,23,AA,M,alpha
+Sample_264,Non T2D 2,Healthy,32,C,F,alpha
+Sample_265,Non T2D 2,Healthy,32,C,F,alpha
+Sample_266,Non T2D 2,Healthy,32,C,F,alpha
+Sample_267,Non T2D 2,Healthy,32,C,F,alpha
+Sample_268,Non T2D 3,Healthy,23,C,F,alpha
+Sample_269,Non T2D 3,Healthy,23,C,F,alpha
+Sample_270,Non T2D 3,Healthy,23,C,F,alpha
+Sample_271,Non T2D 3,Healthy,23,C,F,alpha.contaminated
+Sample_272,Non T2D 3,Healthy,23,C,F,alpha
+Sample_273,Non T2D 3,Healthy,23,C,F,alpha
+Sample_274,Non T2D 3,Healthy,23,C,F,alpha
+Sample_275,Non T2D 3,Healthy,23,C,F,alpha
+Sample_276,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_277,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_278,Non T2D 5,Healthy,27,AA,M,alpha.contaminated
+Sample_279,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_280,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_281,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_282,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_283,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_284,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_285,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_286,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_287,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_288,Non T2D 5,Healthy,27,AA,M,alpha.contaminated
+Sample_289,Non T2D 5,Healthy,27,AA,M,alpha.contaminated
+Sample_290,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_291,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_292,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_293,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_294,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_295,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_296,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_297,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_298,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_299,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_300,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_301,Non T2D 5,Healthy,27,AA,M,alpha
+Sample_302,Non T2D 6,Healthy,68,C,M,alpha
+Sample_303,Non T2D 6,Healthy,68,C,M,alpha
+Sample_304,Non T2D 6,Healthy,68,C,M,alpha
+Sample_305,Non T2D 6,Healthy,68,C,M,alpha
+Sample_306,Non T2D 6,Healthy,68,C,M,alpha
+Sample_307,Non T2D 6,Healthy,68,C,M,alpha
+Sample_308,Non T2D 6,Healthy,68,C,M,alpha
+Sample_309,Non T2D 6,Healthy,68,C,M,alpha
+Sample_310,Non T2D 6,Healthy,68,C,M,alpha
+Sample_311,Non T2D 6,Healthy,68,C,M,alpha
+Sample_312,Non T2D 6,Healthy,68,C,M,alpha
+Sample_313,Non T2D 6,Healthy,68,C,M,alpha
+Sample_314,Non T2D 6,Healthy,68,C,M,alpha
+Sample_315,Non T2D 6,Healthy,68,C,M,alpha
+Sample_316,Non T2D 6,Healthy,68,C,M,alpha
+Sample_317,Non T2D 6,Healthy,68,C,M,alpha
+Sample_318,Non T2D 6,Healthy,68,C,M,alpha
+Sample_319,Non T2D 6,Healthy,68,C,M,alpha
+Sample_320,Non T2D 6,Healthy,68,C,M,alpha
+Sample_321,Non T2D 6,Healthy,68,C,M,alpha
+Sample_322,Non T2D 6,Healthy,68,C,M,alpha
+Sample_323,Non T2D 6,Healthy,68,C,M,alpha
+Sample_324,Non T2D 6,Healthy,68,C,M,alpha
+Sample_325,Non T2D 6,Healthy,68,C,M,alpha
+Sample_326,Non T2D 6,Healthy,68,C,M,alpha
+Sample_327,Non T2D 6,Healthy,68,C,M,alpha
+Sample_328,Non T2D 6,Healthy,68,C,M,alpha
+Sample_329,Non T2D 6,Healthy,68,C,M,alpha
+Sample_330,Non T2D 6,Healthy,68,C,M,alpha
+Sample_331,Non T2D 6,Healthy,68,C,M,alpha.contaminated
+Sample_332,Non T2D 6,Healthy,68,C,M,alpha
+Sample_333,Non T2D 6,Healthy,68,C,M,alpha
+Sample_334,Non T2D 6,Healthy,68,C,M,alpha
+Sample_335,Non T2D 6,Healthy,68,C,M,alpha
+Sample_336,Non T2D 6,Healthy,68,C,M,alpha
+Sample_337,Non T2D 6,Healthy,68,C,M,alpha
+Sample_338,Non T2D 6,Healthy,68,C,M,alpha
+Sample_339,Non T2D 6,Healthy,68,C,M,alpha.contaminated
+Sample_340,Non T2D 7,Healthy,29,C,M,alpha
+Sample_341,Non T2D 7,Healthy,29,C,M,alpha
+Sample_342,Non T2D 7,Healthy,29,C,M,alpha
+Sample_343,Non T2D 7,Healthy,29,C,M,alpha
+Sample_344,Non T2D 7,Healthy,29,C,M,alpha
+Sample_345,Non T2D 7,Healthy,29,C,M,alpha
+Sample_346,Non T2D 7,Healthy,29,C,M,alpha
+Sample_347,Non T2D 7,Healthy,29,C,M,alpha
+Sample_348,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_349,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_350,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_351,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_352,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_353,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_354,Non T2D 3,Healthy,23,C,F,alpha
+Sample_355,Non T2D 3,Healthy,23,C,F,alpha
+Sample_356,Non T2D 3,Healthy,23,C,F,alpha
+Sample_357,Non T2D 3,Healthy,23,C,F,alpha
+Sample_358,Non T2D 3,Healthy,23,C,F,alpha
+Sample_359,Non T2D 3,Healthy,23,C,F,alpha
+Sample_360,Non T2D 3,Healthy,23,C,F,alpha
+Sample_361,Non T2D 3,Healthy,23,C,F,alpha
+Sample_362,Non T2D 3,Healthy,23,C,F,alpha
+Sample_363,Non T2D 3,Healthy,23,C,F,alpha
+Sample_364,Non T2D 3,Healthy,23,C,F,alpha
+Sample_365,Non T2D 3,Healthy,23,C,F,alpha
+Sample_366,Non T2D 3,Healthy,23,C,F,alpha
+Sample_367,Non T2D 3,Healthy,23,C,F,alpha
+Sample_368,Non T2D 3,Healthy,23,C,F,alpha
+Sample_369,Non T2D 3,Healthy,23,C,F,alpha
+Sample_370,Non T2D 3,Healthy,23,C,F,alpha
+Sample_371,Non T2D 3,Healthy,23,C,F,alpha.contaminated
+Sample_372,Non T2D 3,Healthy,23,C,F,alpha
+Sample_373,Non T2D 3,Healthy,23,C,F,alpha
+Sample_374,Non T2D 3,Healthy,23,C,F,alpha
+Sample_375,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_376,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_377,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_378,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_379,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_380,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_381,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_382,Non T2D 8,Healthy,60,AI,M,alpha
+Sample_383,Non T2D 9,Healthy,24,C,F,alpha
+Sample_384,Non T2D 9,Healthy,24,C,F,alpha
+Sample_385,Non T2D 9,Healthy,24,C,F,alpha
+Sample_386,Non T2D 9,Healthy,24,C,F,alpha
+Sample_387,Non T2D 9,Healthy,24,C,F,alpha
+Sample_388,Non T2D 9,Healthy,24,C,F,alpha
+Sample_389,Non T2D 9,Healthy,24,C,F,alpha
+Sample_390,Non T2D 9,Healthy,24,C,F,alpha
+Sample_391,Non T2D 9,Healthy,24,C,F,alpha
+Sample_392,Non T2D 9,Healthy,24,C,F,alpha
+Sample_393,Non T2D 9,Healthy,24,C,F,alpha
+Sample_394,Non T2D 9,Healthy,24,C,F,alpha
+Sample_395,Non T2D 9,Healthy,24,C,F,alpha
+Sample_396,Non T2D 9,Healthy,24,C,F,alpha
+Sample_397,Non T2D 9,Healthy,24,C,F,alpha
+Sample_398,Non T2D 9,Healthy,24,C,F,alpha
+Sample_399,Non T2D 9,Healthy,24,C,F,alpha
+Sample_400,Non T2D 9,Healthy,24,C,F,alpha
+Sample_401,Non T2D 9,Healthy,24,C,F,alpha
+Sample_402,Non T2D 9,Healthy,24,C,F,alpha
+Sample_403,Non T2D 9,Healthy,24,C,F,alpha
+Sample_404,Non T2D 9,Healthy,24,C,F,alpha
+Sample_405,Non T2D 9,Healthy,24,C,F,alpha
+Sample_406,Non T2D 9,Healthy,24,C,F,alpha
+Sample_407,Non T2D 9,Healthy,24,C,F,alpha
+Sample_408,Non T2D 9,Healthy,24,C,F,alpha
+Sample_409,Non T2D 10,Healthy,43,C,M,alpha
+Sample_410,Non T2D 10,Healthy,43,C,M,alpha
+Sample_411,Non T2D 10,Healthy,43,C,M,alpha
+Sample_412,Non T2D 10,Healthy,43,C,M,alpha
+Sample_413,Non T2D 10,Healthy,43,C,M,alpha
+Sample_414,Non T2D 10,Healthy,43,C,M,alpha
+Sample_415,Non T2D 10,Healthy,43,C,M,alpha.contaminated
+Sample_416,Non T2D 10,Healthy,43,C,M,alpha
+Sample_417,Non T2D 10,Healthy,43,C,M,alpha
+Sample_418,Non T2D 10,Healthy,43,C,M,alpha
+Sample_419,Non T2D 10,Healthy,43,C,M,alpha
+Sample_420,Non T2D 10,Healthy,43,C,M,alpha.contaminated
+Sample_421,Non T2D 10,Healthy,43,C,M,alpha
+Sample_422,Non T2D 10,Healthy,43,C,M,alpha
+Sample_423,Non T2D 10,Healthy,43,C,M,alpha
+Sample_424,Non T2D 10,Healthy,43,C,M,alpha
+Sample_425,Non T2D 10,Healthy,43,C,M,alpha
+Sample_426,Non T2D 10,Healthy,43,C,M,alpha
+Sample_427,Non T2D 10,Healthy,43,C,M,alpha
+Sample_428,Non T2D 10,Healthy,43,C,M,alpha
+Sample_429,Non T2D 11,Healthy,31,H,F,alpha
+Sample_430,Non T2D 11,Healthy,31,H,F,alpha
+Sample_431,Non T2D 11,Healthy,31,H,F,alpha
+Sample_432,Non T2D 11,Healthy,31,H,F,alpha
+Sample_433,Non T2D 11,Healthy,31,H,F,alpha
+Sample_434,Non T2D 11,Healthy,31,H,F,alpha
+Sample_435,Non T2D 11,Healthy,31,H,F,alpha
+Sample_436,Non T2D 11,Healthy,31,H,F,alpha.contaminated
+Sample_437,Non T2D 11,Healthy,31,H,F,alpha.contaminated
+Sample_438,Non T2D 11,Healthy,31,H,F,alpha
+Sample_439,Non T2D 11,Healthy,31,H,F,alpha
+Sample_440,Non T2D 11,Healthy,31,H,F,alpha
+Sample_441,Non T2D 11,Healthy,31,H,F,alpha
+Sample_442,Non T2D 11,Healthy,31,H,F,alpha
+Sample_443,Non T2D 11,Healthy,31,H,F,alpha
+Sample_444,Non T2D 11,Healthy,31,H,F,alpha
+Sample_445,Non T2D 11,Healthy,31,H,F,alpha
+Sample_446,Non T2D 11,Healthy,31,H,F,alpha
+Sample_447,Non T2D 11,Healthy,31,H,F,alpha
+Sample_448,Non T2D 11,Healthy,31,H,F,alpha
+Sample_449,Non T2D 11,Healthy,31,H,F,alpha
+Sample_450,Non T2D 11,Healthy,31,H,F,alpha
+Sample_451,Non T2D 11,Healthy,31,H,F,alpha
+Sample_452,Non T2D 11,Healthy,31,H,F,alpha
+Sample_453,Non T2D 11,Healthy,31,H,F,alpha
+Sample_454,Non T2D 11,Healthy,31,H,F,alpha
+Sample_455,Non T2D 11,Healthy,31,H,F,alpha
+Sample_456,Non T2D 11,Healthy,31,H,F,alpha
+Sample_457,Non T2D 11,Healthy,31,H,F,alpha
+Sample_458,Non T2D 11,Healthy,31,H,F,alpha
+Sample_459,Non T2D 11,Healthy,31,H,F,alpha
+Sample_460,Non T2D 11,Healthy,31,H,F,alpha
+Sample_461,Non T2D 11,Healthy,31,H,F,alpha
+Sample_462,Non T2D 11,Healthy,31,H,F,alpha
+Sample_463,Non T2D 11,Healthy,31,H,F,alpha
+Sample_464,Non T2D 11,Healthy,31,H,F,alpha
+Sample_465,Non T2D 11,Healthy,31,H,F,alpha
+Sample_466,Non T2D 11,Healthy,31,H,F,alpha
+Sample_467,Non T2D 11,Healthy,31,H,F,alpha
+Sample_468,Non T2D 11,Healthy,31,H,F,alpha
+Sample_469,Non T2D 11,Healthy,31,H,F,alpha
+Sample_470,Non T2D 11,Healthy,31,H,F,alpha
+Sample_471,Non T2D 11,Healthy,31,H,F,alpha
+Sample_472,Non T2D 11,Healthy,31,H,F,alpha
+Sample_473,Non T2D 11,Healthy,31,H,F,alpha
+Sample_474,Non T2D 11,Healthy,31,H,F,alpha
+Sample_475,Non T2D 11,Healthy,31,H,F,alpha
+Sample_476,Non T2D 11,Healthy,31,H,F,alpha
+Sample_477,Non T2D 11,Healthy,31,H,F,alpha
+Sample_478,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_479,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_480,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_481,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_482,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_483,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_484,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_485,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_486,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_487,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_488,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_489,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_490,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_491,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_492,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_493,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_494,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_495,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_496,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_497,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_498,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_499,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_500,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_501,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_502,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_503,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_504,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_505,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_506,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_507,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_508,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_509,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_510,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_511,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_512,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_513,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_514,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_515,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_516,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_517,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_518,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_519,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_520,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_521,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_522,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_523,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_524,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_525,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_526,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_527,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_528,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_529,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_530,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_531,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_532,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_533,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_534,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_535,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_536,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_537,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_538,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_539,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_540,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_541,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_542,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_543,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_544,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_545,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_546,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_547,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_548,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_549,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_550,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_551,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_552,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_553,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_554,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_555,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_556,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_557,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_558,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_559,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_560,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_561,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_562,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_563,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_564,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_565,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_566,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_567,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_568,Non T2D 12,Healthy,56,AA,M,alpha
+Sample_569,Non T2D 12,Healthy,56,AA,M,alpha.contaminated
+Sample_570,Non T2D 4,Healthy,56,C,F,alpha
+Sample_571,Non T2D 4,Healthy,56,C,F,alpha
+Sample_572,Non T2D 4,Healthy,56,C,F,alpha
+Sample_573,Non T2D 4,Healthy,56,C,F,alpha
+Sample_574,Non T2D 4,Healthy,56,C,F,alpha.contaminated
+Sample_575,Non T2D 4,Healthy,56,C,F,alpha
+Sample_576,Non T2D 4,Healthy,56,C,F,alpha
+Sample_577,Non T2D 4,Healthy,56,C,F,alpha
+Sample_578,Non T2D 4,Healthy,56,C,F,alpha
+Sample_579,Non T2D 4,Healthy,56,C,F,alpha
+Sample_580,Non T2D 4,Healthy,56,C,F,alpha
+Sample_581,Non T2D 4,Healthy,56,C,F,alpha
+Sample_582,Non T2D 4,Healthy,56,C,F,alpha
+Sample_583,Non T2D 4,Healthy,56,C,F,alpha
+Sample_584,Non T2D 4,Healthy,56,C,F,alpha
+Sample_585,Non T2D 1,Healthy,23,AA,M,delta
+Sample_586,Non T2D 1,Healthy,23,AA,M,delta
+Sample_587,Non T2D 1,Healthy,23,AA,M,delta
+Sample_588,Non T2D 1,Healthy,23,AA,M,delta
+Sample_589,Non T2D 1,Healthy,23,AA,M,delta
+Sample_590,Non T2D 2,Healthy,32,C,F,delta
+Sample_591,Non T2D 2,Healthy,32,C,F,delta
+Sample_592,Non T2D 3,Healthy,23,C,F,delta
+Sample_593,Non T2D 5,Healthy,27,AA,M,delta
+Sample_594,Non T2D 5,Healthy,27,AA,M,delta
+Sample_595,Non T2D 5,Healthy,27,AA,M,delta
+Sample_596,Non T2D 5,Healthy,27,AA,M,delta
+Sample_597,Non T2D 5,Healthy,27,AA,M,delta
+Sample_598,Non T2D 6,Healthy,68,C,M,delta
+Sample_599,Non T2D 6,Healthy,68,C,M,delta
+Sample_600,Non T2D 6,Healthy,68,C,M,delta
+Sample_601,Non T2D 6,Healthy,68,C,M,delta
+Sample_602,Non T2D 8,Healthy,60,AI,M,delta
+Sample_603,Non T2D 3,Healthy,23,C,F,delta
+Sample_604,Non T2D 3,Healthy,23,C,F,delta
+Sample_605,Non T2D 8,Healthy,60,AI,M,delta
+Sample_606,Non T2D 8,Healthy,60,AI,M,delta
+Sample_607,Non T2D 9,Healthy,24,C,F,delta
+Sample_608,Non T2D 10,Healthy,43,C,M,delta
+Sample_609,Non T2D 10,Healthy,43,C,M,delta
+Sample_610,Non T2D 11,Healthy,31,H,F,delta
+Sample_611,Non T2D 12,Healthy,56,AA,M,delta
+Sample_612,Non T2D 12,Healthy,56,AA,M,delta
+Sample_613,Non T2D 1,Healthy,23,AA,M,gamma
+Sample_614,Non T2D 1,Healthy,23,AA,M,gamma
+Sample_615,Non T2D 1,Healthy,23,AA,M,gamma
+Sample_616,Non T2D 2,Healthy,32,C,F,gamma
+Sample_617,Non T2D 2,Healthy,32,C,F,gamma
+Sample_618,Non T2D 2,Healthy,32,C,F,gamma
+Sample_619,Non T2D 2,Healthy,32,C,F,gamma
+Sample_620,Non T2D 2,Healthy,32,C,F,gamma
+Sample_621,Non T2D 3,Healthy,23,C,F,gamma
+Sample_622,Non T2D 5,Healthy,27,AA,M,gamma
+Sample_623,Non T2D 5,Healthy,27,AA,M,gamma
+Sample_624,Non T2D 6,Healthy,68,C,M,gamma
+Sample_625,Non T2D 7,Healthy,29,C,M,gamma
+Sample_626,Non T2D 7,Healthy,29,C,M,gamma
+Sample_627,Non T2D 7,Healthy,29,C,M,gamma
+Sample_628,Non T2D 7,Healthy,29,C,M,gamma
+Sample_629,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_630,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_631,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_632,Non T2D 8,Healthy,60,AI,M,gamma.contaminated
+Sample_633,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_634,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_635,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_636,Non T2D 3,Healthy,23,C,F,gamma
+Sample_637,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_638,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_639,Non T2D 8,Healthy,60,AI,M,gamma
+Sample_640,Non T2D 8,Healthy,60,AI,M,gamma.contaminated
+Sample_641,Non T2D 9,Healthy,24,C,F,gamma
+Sample_642,Non T2D 9,Healthy,24,C,F,gamma.contaminated
+Sample_643,Non T2D 9,Healthy,24,C,F,gamma
+Sample_644,Non T2D 9,Healthy,24,C,F,gamma
+Sample_645,Non T2D 10,Healthy,43,C,M,gamma.contaminated
+Sample_646,Non T2D 11,Healthy,31,H,F,gamma
+Sample_647,Non T2D 4,Healthy,56,C,F,gamma
+Sample_648,Non T2D 4,Healthy,56,C,F,gamma.contaminated
+Sample_649,Non T2D 4,Healthy,56,C,F,gamma.contaminated
+Sample_650,Non T2D 4,Healthy,56,C,F,gamma
+Sample_651,Non T2D 4,Healthy,56,C,F,gamma
+Sample_652,T2D 2,T2D,37,C,F,beta
+Sample_653,T2D 2,T2D,37,C,F,beta
+Sample_654,T2D 2,T2D,37,C,F,beta
+Sample_655,T2D 2,T2D,37,C,F,beta
+Sample_656,T2D 2,T2D,37,C,F,beta
+Sample_657,T2D 2,T2D,37,C,F,beta
+Sample_658,T2D 2,T2D,37,C,F,beta
+Sample_659,T2D 2,T2D,37,C,F,beta
+Sample_660,T2D 2,T2D,37,C,F,beta
+Sample_661,T2D 2,T2D,37,C,F,beta
+Sample_662,T2D 3,T2D,55,C,F,beta
+Sample_663,T2D 3,T2D,55,C,F,beta
+Sample_664,T2D 3,T2D,55,C,F,beta
+Sample_665,T2D 3,T2D,55,C,F,beta.contaminated
+Sample_666,T2D 3,T2D,55,C,F,beta
+Sample_667,T2D 3,T2D,55,C,F,beta.contaminated
+Sample_668,T2D 3,T2D,55,C,F,beta
+Sample_669,T2D 3,T2D,55,C,F,beta
+Sample_670,T2D 3,T2D,55,C,F,beta
+Sample_671,T2D 3,T2D,55,C,F,beta
+Sample_672,T2D 3,T2D,55,C,F,beta
+Sample_673,T2D 3,T2D,55,C,F,beta
+Sample_674,T2D 3,T2D,55,C,F,beta
+Sample_675,T2D 3,T2D,55,C,F,beta
+Sample_676,T2D 1,T2D,57,AA,M,beta
+Sample_677,T2D 1,T2D,57,AA,M,beta
+Sample_678,T2D 1,T2D,57,AA,M,beta
+Sample_679,T2D 1,T2D,57,AA,M,beta
+Sample_680,T2D 3,T2D,55,C,F,beta
+Sample_681,T2D 3,T2D,55,C,F,beta.contaminated
+Sample_682,T2D 3,T2D,55,C,F,beta
+Sample_683,T2D 3,T2D,55,C,F,beta
+Sample_684,T2D 3,T2D,55,C,F,beta
+Sample_685,T2D 3,T2D,55,C,F,beta
+Sample_686,T2D 3,T2D,55,C,F,beta
+Sample_687,T2D 3,T2D,55,C,F,beta
+Sample_688,T2D 3,T2D,55,C,F,beta
+Sample_689,T2D 3,T2D,55,C,F,beta
+Sample_690,T2D 3,T2D,55,C,F,beta
+Sample_691,T2D 3,T2D,55,C,F,beta
+Sample_692,T2D 3,T2D,55,C,F,beta
+Sample_693,T2D 3,T2D,55,C,F,beta
+Sample_694,T2D 3,T2D,55,C,F,beta
+Sample_695,T2D 4,T2D,41,H,F,beta
+Sample_696,T2D 4,T2D,41,H,F,beta
+Sample_697,T2D 4,T2D,41,H,F,beta
+Sample_698,T2D 4,T2D,41,H,F,beta
+Sample_699,T2D 4,T2D,41,H,F,beta
+Sample_700,T2D 4,T2D,41,H,F,beta
+Sample_701,T2D 4,T2D,41,H,F,beta
+Sample_702,T2D 4,T2D,41,H,F,beta
+Sample_703,T2D 4,T2D,41,H,F,beta
+Sample_704,T2D 1,T2D,57,AA,M,beta
+Sample_705,T2D 1,T2D,57,AA,M,beta
+Sample_706,T2D 4,T2D,41,H,F,beta
+Sample_707,T2D 4,T2D,41,H,F,beta
+Sample_708,T2D 4,T2D,41,H,F,beta
+Sample_709,T2D 4,T2D,41,H,F,beta
+Sample_710,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_711,T2D 4,T2D,41,H,F,beta
+Sample_712,T2D 4,T2D,41,H,F,beta
+Sample_713,T2D 4,T2D,41,H,F,beta
+Sample_714,T2D 4,T2D,41,H,F,beta
+Sample_715,T2D 4,T2D,41,H,F,beta
+Sample_716,T2D 4,T2D,41,H,F,beta
+Sample_717,T2D 4,T2D,41,H,F,beta
+Sample_718,T2D 4,T2D,41,H,F,beta
+Sample_719,T2D 4,T2D,41,H,F,beta
+Sample_720,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_721,T2D 4,T2D,41,H,F,beta
+Sample_722,T2D 4,T2D,41,H,F,beta
+Sample_723,T2D 4,T2D,41,H,F,beta
+Sample_724,T2D 4,T2D,41,H,F,beta
+Sample_725,T2D 4,T2D,41,H,F,beta
+Sample_726,T2D 4,T2D,41,H,F,beta
+Sample_727,T2D 4,T2D,41,H,F,beta
+Sample_728,T2D 4,T2D,41,H,F,beta
+Sample_729,T2D 4,T2D,41,H,F,beta
+Sample_730,T2D 4,T2D,41,H,F,beta
+Sample_731,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_732,T2D 4,T2D,41,H,F,beta
+Sample_733,T2D 4,T2D,41,H,F,beta
+Sample_734,T2D 4,T2D,41,H,F,beta
+Sample_735,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_736,T2D 4,T2D,41,H,F,beta
+Sample_737,T2D 4,T2D,41,H,F,beta
+Sample_738,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_739,T2D 4,T2D,41,H,F,beta
+Sample_740,T2D 4,T2D,41,H,F,beta
+Sample_741,T2D 4,T2D,41,H,F,beta
+Sample_742,T2D 4,T2D,41,H,F,beta
+Sample_743,T2D 4,T2D,41,H,F,beta
+Sample_744,T2D 4,T2D,41,H,F,beta
+Sample_745,T2D 4,T2D,41,H,F,beta
+Sample_746,T2D 4,T2D,41,H,F,beta
+Sample_747,T2D 4,T2D,41,H,F,beta
+Sample_748,T2D 4,T2D,41,H,F,beta
+Sample_749,T2D 4,T2D,41,H,F,beta
+Sample_750,T2D 4,T2D,41,H,F,beta
+Sample_751,T2D 4,T2D,41,H,F,beta
+Sample_752,T2D 4,T2D,41,H,F,beta
+Sample_753,T2D 4,T2D,41,H,F,beta
+Sample_754,T2D 4,T2D,41,H,F,beta
+Sample_755,T2D 4,T2D,41,H,F,beta
+Sample_756,T2D 4,T2D,41,H,F,beta
+Sample_757,T2D 4,T2D,41,H,F,beta
+Sample_758,T2D 4,T2D,41,H,F,beta
+Sample_759,T2D 4,T2D,41,H,F,beta
+Sample_760,T2D 4,T2D,41,H,F,beta
+Sample_761,T2D 4,T2D,41,H,F,beta
+Sample_762,T2D 4,T2D,41,H,F,beta
+Sample_763,T2D 4,T2D,41,H,F,beta
+Sample_764,T2D 4,T2D,41,H,F,beta
+Sample_765,T2D 4,T2D,41,H,F,beta
+Sample_766,T2D 4,T2D,41,H,F,beta
+Sample_767,T2D 4,T2D,41,H,F,beta
+Sample_768,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_769,T2D 4,T2D,41,H,F,beta
+Sample_770,T2D 4,T2D,41,H,F,beta
+Sample_771,T2D 4,T2D,41,H,F,beta
+Sample_772,T2D 4,T2D,41,H,F,beta
+Sample_773,T2D 4,T2D,41,H,F,beta
+Sample_774,T2D 4,T2D,41,H,F,beta
+Sample_775,T2D 4,T2D,41,H,F,beta
+Sample_776,T2D 4,T2D,41,H,F,beta
+Sample_777,T2D 4,T2D,41,H,F,beta
+Sample_778,T2D 4,T2D,41,H,F,beta
+Sample_779,T2D 4,T2D,41,H,F,beta
+Sample_780,T2D 4,T2D,41,H,F,beta
+Sample_781,T2D 4,T2D,41,H,F,beta
+Sample_782,T2D 4,T2D,41,H,F,beta
+Sample_783,T2D 4,T2D,41,H,F,beta
+Sample_784,T2D 4,T2D,41,H,F,beta
+Sample_785,T2D 4,T2D,41,H,F,beta
+Sample_786,T2D 4,T2D,41,H,F,beta
+Sample_787,T2D 4,T2D,41,H,F,beta
+Sample_788,T2D 4,T2D,41,H,F,beta
+Sample_789,T2D 4,T2D,41,H,F,beta
+Sample_790,T2D 4,T2D,41,H,F,beta
+Sample_791,T2D 4,T2D,41,H,F,beta
+Sample_792,T2D 4,T2D,41,H,F,beta
+Sample_793,T2D 4,T2D,41,H,F,beta
+Sample_794,T2D 4,T2D,41,H,F,beta
+Sample_795,T2D 4,T2D,41,H,F,beta
+Sample_796,T2D 4,T2D,41,H,F,beta
+Sample_797,T2D 4,T2D,41,H,F,beta
+Sample_798,T2D 4,T2D,41,H,F,beta
+Sample_799,T2D 4,T2D,41,H,F,beta
+Sample_800,T2D 4,T2D,41,H,F,beta
+Sample_801,T2D 4,T2D,41,H,F,beta
+Sample_802,T2D 4,T2D,41,H,F,beta
+Sample_803,T2D 4,T2D,41,H,F,beta
+Sample_804,T2D 4,T2D,41,H,F,beta
+Sample_805,T2D 4,T2D,41,H,F,beta
+Sample_806,T2D 4,T2D,41,H,F,beta
+Sample_807,T2D 4,T2D,41,H,F,beta
+Sample_808,T2D 4,T2D,41,H,F,beta
+Sample_809,T2D 4,T2D,41,H,F,beta
+Sample_810,T2D 4,T2D,41,H,F,beta
+Sample_811,T2D 4,T2D,41,H,F,beta
+Sample_812,T2D 4,T2D,41,H,F,beta
+Sample_813,T2D 4,T2D,41,H,F,beta
+Sample_814,T2D 4,T2D,41,H,F,beta
+Sample_815,T2D 4,T2D,41,H,F,beta
+Sample_816,T2D 4,T2D,41,H,F,beta
+Sample_817,T2D 4,T2D,41,H,F,beta
+Sample_818,T2D 4,T2D,41,H,F,beta
+Sample_819,T2D 4,T2D,41,H,F,beta
+Sample_820,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_821,T2D 4,T2D,41,H,F,beta
+Sample_822,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_823,T2D 4,T2D,41,H,F,beta
+Sample_824,T2D 4,T2D,41,H,F,beta
+Sample_825,T2D 4,T2D,41,H,F,beta
+Sample_826,T2D 4,T2D,41,H,F,beta
+Sample_827,T2D 4,T2D,41,H,F,beta
+Sample_828,T2D 4,T2D,41,H,F,beta
+Sample_829,T2D 4,T2D,41,H,F,beta
+Sample_830,T2D 4,T2D,41,H,F,beta
+Sample_831,T2D 4,T2D,41,H,F,beta
+Sample_832,T2D 4,T2D,41,H,F,beta
+Sample_833,T2D 4,T2D,41,H,F,beta
+Sample_834,T2D 4,T2D,41,H,F,beta
+Sample_835,T2D 4,T2D,41,H,F,beta
+Sample_836,T2D 4,T2D,41,H,F,beta.contaminated
+Sample_837,T2D 4,T2D,41,H,F,beta
+Sample_838,T2D 4,T2D,41,H,F,beta
+Sample_839,T2D 4,T2D,41,H,F,beta
+Sample_840,T2D 4,T2D,41,H,F,beta
+Sample_841,T2D 1,T2D,57,AA,M,beta
+Sample_842,T2D 1,T2D,57,AA,M,beta
+Sample_843,T2D 1,T2D,57,AA,M,beta
+Sample_844,T2D 1,T2D,57,AA,M,beta
+Sample_845,T2D 1,T2D,57,AA,M,beta
+Sample_846,T2D 1,T2D,57,AA,M,beta
+Sample_847,T2D 2,T2D,37,C,F,beta
+Sample_848,T2D 2,T2D,37,C,F,beta
+Sample_849,T2D 2,T2D,37,C,F,beta
+Sample_850,T2D 2,T2D,37,C,F,beta
+Sample_851,T2D 2,T2D,37,C,F,beta
+Sample_852,T2D 2,T2D,37,C,F,beta
+Sample_853,T2D 2,T2D,37,C,F,beta
+Sample_854,T2D 2,T2D,37,C,F,beta
+Sample_855,T2D 5,T2D,42,C,M,beta
+Sample_856,T2D 5,T2D,42,C,M,beta
+Sample_857,T2D 5,T2D,42,C,M,beta
+Sample_858,T2D 5,T2D,42,C,M,beta
+Sample_859,T2D 5,T2D,42,C,M,beta
+Sample_860,T2D 5,T2D,42,C,M,beta
+Sample_861,T2D 5,T2D,42,C,M,beta
+Sample_862,T2D 5,T2D,42,C,M,beta
+Sample_863,T2D 5,T2D,42,C,M,beta
+Sample_864,T2D 5,T2D,42,C,M,beta
+Sample_865,T2D 5,T2D,42,C,M,beta.contaminated
+Sample_866,T2D 5,T2D,42,C,M,beta
+Sample_867,T2D 6,T2D,51,H,M,beta.contaminated
+Sample_868,T2D 6,T2D,51,H,M,beta
+Sample_869,T2D 6,T2D,51,H,M,beta
+Sample_870,T2D 6,T2D,51,H,M,beta
+Sample_871,T2D 6,T2D,51,H,M,beta
+Sample_872,T2D 6,T2D,51,H,M,beta
+Sample_873,T2D 6,T2D,51,H,M,beta
+Sample_874,T2D 6,T2D,51,H,M,beta
+Sample_875,T2D 6,T2D,51,H,M,beta
+Sample_876,T2D 6,T2D,51,H,M,beta
+Sample_877,T2D 6,T2D,51,H,M,beta
+Sample_878,T2D 6,T2D,51,H,M,beta.contaminated
+Sample_879,T2D 6,T2D,51,H,M,beta
+Sample_880,T2D 6,T2D,51,H,M,beta
+Sample_881,T2D 6,T2D,51,H,M,beta
+Sample_882,T2D 6,T2D,51,H,M,beta.contaminated
+Sample_883,T2D 6,T2D,51,H,M,beta
+Sample_884,T2D 6,T2D,51,H,M,beta
+Sample_885,T2D 6,T2D,51,H,M,beta
+Sample_886,T2D 6,T2D,51,H,M,beta
+Sample_887,T2D 6,T2D,51,H,M,beta
+Sample_888,T2D 6,T2D,51,H,M,beta
+Sample_889,T2D 6,T2D,51,H,M,beta
+Sample_890,T2D 6,T2D,51,H,M,beta
+Sample_891,T2D 6,T2D,51,H,M,beta
+Sample_892,T2D 6,T2D,51,H,M,beta
+Sample_893,T2D 6,T2D,51,H,M,beta
+Sample_894,T2D 6,T2D,51,H,M,beta.contaminated
+Sample_895,T2D 6,T2D,51,H,M,beta
+Sample_896,T2D 6,T2D,51,H,M,beta
+Sample_897,T2D 6,T2D,51,H,M,beta
+Sample_898,T2D 6,T2D,51,H,M,beta
+Sample_899,T2D 6,T2D,51,H,M,beta
+Sample_900,T2D 6,T2D,51,H,M,beta.contaminated
+Sample_901,T2D 6,T2D,51,H,M,beta
+Sample_902,T2D 6,T2D,51,H,M,beta
+Sample_903,T2D 6,T2D,51,H,M,beta
+Sample_904,T2D 6,T2D,51,H,M,beta
+Sample_905,T2D 6,T2D,51,H,M,beta
+Sample_906,T2D 6,T2D,51,H,M,beta
+Sample_907,T2D 6,T2D,51,H,M,beta
+Sample_908,T2D 6,T2D,51,H,M,beta
+Sample_909,T2D 6,T2D,51,H,M,beta
+Sample_910,T2D 6,T2D,51,H,M,beta
+Sample_911,T2D 6,T2D,51,H,M,beta
+Sample_912,T2D 6,T2D,51,H,M,beta
+Sample_913,T2D 6,T2D,51,H,M,beta
+Sample_914,T2D 6,T2D,51,H,M,beta
+Sample_915,T2D 6,T2D,51,H,M,beta
+Sample_916,T2D 6,T2D,51,H,M,beta
+Sample_917,T2D 6,T2D,51,H,M,beta
+Sample_918,T2D 6,T2D,51,H,M,beta
+Sample_919,T2D 6,T2D,51,H,M,beta
+Sample_920,T2D 6,T2D,51,H,M,beta
+Sample_921,T2D 6,T2D,51,H,M,beta
+Sample_922,T2D 6,T2D,51,H,M,beta
+Sample_923,T2D 6,T2D,51,H,M,beta
+Sample_924,T2D 6,T2D,51,H,M,beta
+Sample_925,T2D 6,T2D,51,H,M,beta
+Sample_926,T2D 6,T2D,51,H,M,beta
+Sample_927,T2D 6,T2D,51,H,M,beta
+Sample_928,T2D 6,T2D,51,H,M,beta
+Sample_929,T2D 6,T2D,51,H,M,beta
+Sample_930,T2D 6,T2D,51,H,M,beta
+Sample_931,T2D 6,T2D,51,H,M,beta
+Sample_932,T2D 6,T2D,51,H,M,beta
+Sample_933,T2D 6,T2D,51,H,M,beta
+Sample_934,T2D 6,T2D,51,H,M,beta
+Sample_935,T2D 6,T2D,51,H,M,beta
+Sample_936,T2D 6,T2D,51,H,M,beta
+Sample_937,T2D 6,T2D,51,H,M,beta
+Sample_938,T2D 6,T2D,51,H,M,beta
+Sample_939,T2D 6,T2D,51,H,M,beta
+Sample_940,T2D 6,T2D,51,H,M,beta
+Sample_941,T2D 6,T2D,51,H,M,beta
+Sample_942,T2D 6,T2D,51,H,M,beta
+Sample_943,T2D 6,T2D,51,H,M,beta
+Sample_944,T2D 6,T2D,51,H,M,beta
+Sample_945,T2D 6,T2D,51,H,M,beta
+Sample_946,T2D 6,T2D,51,H,M,beta
+Sample_947,T2D 6,T2D,51,H,M,beta
+Sample_948,T2D 2,T2D,37,C,F,alpha
+Sample_949,T2D 2,T2D,37,C,F,alpha
+Sample_950,T2D 2,T2D,37,C,F,alpha
+Sample_951,T2D 2,T2D,37,C,F,alpha
+Sample_952,T2D 2,T2D,37,C,F,alpha
+Sample_953,T2D 2,T2D,37,C,F,alpha
+Sample_954,T2D 2,T2D,37,C,F,alpha
+Sample_955,T2D 2,T2D,37,C,F,alpha
+Sample_956,T2D 2,T2D,37,C,F,alpha
+Sample_957,T2D 2,T2D,37,C,F,alpha
+Sample_958,T2D 2,T2D,37,C,F,alpha
+Sample_959,T2D 2,T2D,37,C,F,alpha
+Sample_960,T2D 2,T2D,37,C,F,alpha
+Sample_961,T2D 2,T2D,37,C,F,alpha
+Sample_962,T2D 2,T2D,37,C,F,alpha
+Sample_963,T2D 2,T2D,37,C,F,alpha
+Sample_964,T2D 2,T2D,37,C,F,alpha
+Sample_965,T2D 2,T2D,37,C,F,alpha
+Sample_966,T2D 2,T2D,37,C,F,alpha
+Sample_967,T2D 2,T2D,37,C,F,alpha
+Sample_968,T2D 2,T2D,37,C,F,alpha
+Sample_969,T2D 2,T2D,37,C,F,alpha
+Sample_970,T2D 2,T2D,37,C,F,alpha
+Sample_971,T2D 2,T2D,37,C,F,alpha
+Sample_972,T2D 2,T2D,37,C,F,alpha
+Sample_973,T2D 2,T2D,37,C,F,alpha
+Sample_974,T2D 2,T2D,37,C,F,alpha
+Sample_975,T2D 3,T2D,55,C,F,alpha.contaminated
+Sample_976,T2D 3,T2D,55,C,F,alpha
+Sample_977,T2D 3,T2D,55,C,F,alpha
+Sample_978,T2D 3,T2D,55,C,F,alpha
+Sample_979,T2D 3,T2D,55,C,F,alpha
+Sample_980,T2D 3,T2D,55,C,F,alpha
+Sample_981,T2D 3,T2D,55,C,F,alpha
+Sample_982,T2D 3,T2D,55,C,F,alpha
+Sample_983,T2D 3,T2D,55,C,F,alpha
+Sample_984,T2D 3,T2D,55,C,F,alpha
+Sample_985,T2D 3,T2D,55,C,F,alpha
+Sample_986,T2D 3,T2D,55,C,F,alpha.contaminated
+Sample_987,T2D 3,T2D,55,C,F,alpha
+Sample_988,T2D 3,T2D,55,C,F,alpha
+Sample_989,T2D 3,T2D,55,C,F,alpha
+Sample_990,T2D 3,T2D,55,C,F,alpha
+Sample_991,T2D 3,T2D,55,C,F,alpha
+Sample_992,T2D 3,T2D,55,C,F,alpha
+Sample_993,T2D 3,T2D,55,C,F,alpha
+Sample_994,T2D 3,T2D,55,C,F,alpha
+Sample_995,T2D 1,T2D,57,AA,M,alpha
+Sample_996,T2D 1,T2D,57,AA,M,alpha
+Sample_997,T2D 1,T2D,57,AA,M,alpha
+Sample_998,T2D 1,T2D,57,AA,M,alpha
+Sample_999,T2D 1,T2D,57,AA,M,alpha
+Sample_1000,T2D 1,T2D,57,AA,M,alpha
+Sample_1001,T2D 1,T2D,57,AA,M,alpha
+Sample_1002,T2D 1,T2D,57,AA,M,alpha
+Sample_1003,T2D 1,T2D,57,AA,M,alpha
+Sample_1004,T2D 1,T2D,57,AA,M,alpha.contaminated
+Sample_1005,T2D 1,T2D,57,AA,M,alpha
+Sample_1006,T2D 1,T2D,57,AA,M,alpha
+Sample_1007,T2D 1,T2D,57,AA,M,alpha
+Sample_1008,T2D 1,T2D,57,AA,M,alpha
+Sample_1009,T2D 1,T2D,57,AA,M,alpha
+Sample_1010,T2D 1,T2D,57,AA,M,alpha
+Sample_1011,T2D 1,T2D,57,AA,M,alpha
+Sample_1012,T2D 1,T2D,57,AA,M,alpha
+Sample_1013,T2D 1,T2D,57,AA,M,alpha
+Sample_1014,T2D 3,T2D,55,C,F,alpha
+Sample_1015,T2D 3,T2D,55,C,F,alpha
+Sample_1016,T2D 3,T2D,55,C,F,alpha
+Sample_1017,T2D 3,T2D,55,C,F,alpha
+Sample_1018,T2D 3,T2D,55,C,F,alpha
+Sample_1019,T2D 3,T2D,55,C,F,alpha.contaminated
+Sample_1020,T2D 3,T2D,55,C,F,alpha
+Sample_1021,T2D 3,T2D,55,C,F,alpha.contaminated
+Sample_1022,T2D 3,T2D,55,C,F,alpha
+Sample_1023,T2D 3,T2D,55,C,F,alpha
+Sample_1024,T2D 3,T2D,55,C,F,alpha
+Sample_1025,T2D 3,T2D,55,C,F,alpha
+Sample_1026,T2D 3,T2D,55,C,F,alpha
+Sample_1027,T2D 4,T2D,41,H,F,alpha
+Sample_1028,T2D 4,T2D,41,H,F,alpha
+Sample_1029,T2D 4,T2D,41,H,F,alpha
+Sample_1030,T2D 4,T2D,41,H,F,alpha
+Sample_1031,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1032,T2D 4,T2D,41,H,F,alpha
+Sample_1033,T2D 4,T2D,41,H,F,alpha
+Sample_1034,T2D 4,T2D,41,H,F,alpha
+Sample_1035,T2D 4,T2D,41,H,F,alpha
+Sample_1036,T2D 4,T2D,41,H,F,alpha
+Sample_1037,T2D 4,T2D,41,H,F,alpha
+Sample_1038,T2D 4,T2D,41,H,F,alpha
+Sample_1039,T2D 4,T2D,41,H,F,alpha
+Sample_1040,T2D 4,T2D,41,H,F,alpha
+Sample_1041,T2D 4,T2D,41,H,F,alpha
+Sample_1042,T2D 4,T2D,41,H,F,alpha
+Sample_1043,T2D 4,T2D,41,H,F,alpha
+Sample_1044,T2D 4,T2D,41,H,F,alpha
+Sample_1045,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1046,T2D 4,T2D,41,H,F,alpha
+Sample_1047,T2D 4,T2D,41,H,F,alpha
+Sample_1048,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1049,T2D 4,T2D,41,H,F,alpha
+Sample_1050,T2D 4,T2D,41,H,F,alpha
+Sample_1051,T2D 4,T2D,41,H,F,alpha
+Sample_1052,T2D 4,T2D,41,H,F,alpha
+Sample_1053,T2D 1,T2D,57,AA,M,alpha
+Sample_1054,T2D 1,T2D,57,AA,M,alpha
+Sample_1055,T2D 1,T2D,57,AA,M,alpha
+Sample_1056,T2D 1,T2D,57,AA,M,alpha
+Sample_1057,T2D 1,T2D,57,AA,M,alpha
+Sample_1058,T2D 1,T2D,57,AA,M,alpha
+Sample_1059,T2D 1,T2D,57,AA,M,alpha
+Sample_1060,T2D 1,T2D,57,AA,M,alpha
+Sample_1061,T2D 1,T2D,57,AA,M,alpha
+Sample_1062,T2D 1,T2D,57,AA,M,alpha
+Sample_1063,T2D 4,T2D,41,H,F,alpha
+Sample_1064,T2D 4,T2D,41,H,F,alpha
+Sample_1065,T2D 4,T2D,41,H,F,alpha
+Sample_1066,T2D 4,T2D,41,H,F,alpha
+Sample_1067,T2D 4,T2D,41,H,F,alpha
+Sample_1068,T2D 4,T2D,41,H,F,alpha
+Sample_1069,T2D 4,T2D,41,H,F,alpha
+Sample_1070,T2D 4,T2D,41,H,F,alpha
+Sample_1071,T2D 4,T2D,41,H,F,alpha
+Sample_1072,T2D 4,T2D,41,H,F,alpha
+Sample_1073,T2D 4,T2D,41,H,F,alpha
+Sample_1074,T2D 4,T2D,41,H,F,alpha
+Sample_1075,T2D 4,T2D,41,H,F,alpha
+Sample_1076,T2D 4,T2D,41,H,F,alpha
+Sample_1077,T2D 4,T2D,41,H,F,alpha
+Sample_1078,T2D 4,T2D,41,H,F,alpha
+Sample_1079,T2D 4,T2D,41,H,F,alpha
+Sample_1080,T2D 4,T2D,41,H,F,alpha
+Sample_1081,T2D 4,T2D,41,H,F,alpha
+Sample_1082,T2D 4,T2D,41,H,F,alpha
+Sample_1083,T2D 4,T2D,41,H,F,alpha
+Sample_1084,T2D 4,T2D,41,H,F,alpha
+Sample_1085,T2D 4,T2D,41,H,F,alpha
+Sample_1086,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1087,T2D 4,T2D,41,H,F,alpha
+Sample_1088,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1089,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1090,T2D 4,T2D,41,H,F,alpha
+Sample_1091,T2D 4,T2D,41,H,F,alpha
+Sample_1092,T2D 4,T2D,41,H,F,alpha
+Sample_1093,T2D 4,T2D,41,H,F,alpha
+Sample_1094,T2D 4,T2D,41,H,F,alpha
+Sample_1095,T2D 4,T2D,41,H,F,alpha
+Sample_1096,T2D 4,T2D,41,H,F,alpha
+Sample_1097,T2D 4,T2D,41,H,F,alpha
+Sample_1098,T2D 4,T2D,41,H,F,alpha
+Sample_1099,T2D 4,T2D,41,H,F,alpha
+Sample_1100,T2D 4,T2D,41,H,F,alpha
+Sample_1101,T2D 4,T2D,41,H,F,alpha
+Sample_1102,T2D 4,T2D,41,H,F,alpha
+Sample_1103,T2D 4,T2D,41,H,F,alpha
+Sample_1104,T2D 4,T2D,41,H,F,alpha
+Sample_1105,T2D 4,T2D,41,H,F,alpha
+Sample_1106,T2D 4,T2D,41,H,F,alpha
+Sample_1107,T2D 4,T2D,41,H,F,alpha
+Sample_1108,T2D 4,T2D,41,H,F,alpha
+Sample_1109,T2D 4,T2D,41,H,F,alpha
+Sample_1110,T2D 4,T2D,41,H,F,alpha
+Sample_1111,T2D 4,T2D,41,H,F,alpha
+Sample_1112,T2D 4,T2D,41,H,F,alpha
+Sample_1113,T2D 4,T2D,41,H,F,alpha
+Sample_1114,T2D 4,T2D,41,H,F,alpha
+Sample_1115,T2D 4,T2D,41,H,F,alpha
+Sample_1116,T2D 4,T2D,41,H,F,alpha
+Sample_1117,T2D 4,T2D,41,H,F,alpha
+Sample_1118,T2D 4,T2D,41,H,F,alpha
+Sample_1119,T2D 4,T2D,41,H,F,alpha
+Sample_1120,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1121,T2D 4,T2D,41,H,F,alpha
+Sample_1122,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1123,T2D 4,T2D,41,H,F,alpha
+Sample_1124,T2D 4,T2D,41,H,F,alpha
+Sample_1125,T2D 4,T2D,41,H,F,alpha
+Sample_1126,T2D 4,T2D,41,H,F,alpha
+Sample_1127,T2D 4,T2D,41,H,F,alpha
+Sample_1128,T2D 4,T2D,41,H,F,alpha
+Sample_1129,T2D 4,T2D,41,H,F,alpha
+Sample_1130,T2D 4,T2D,41,H,F,alpha
+Sample_1131,T2D 4,T2D,41,H,F,alpha
+Sample_1132,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1133,T2D 4,T2D,41,H,F,alpha
+Sample_1134,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1135,T2D 4,T2D,41,H,F,alpha
+Sample_1136,T2D 4,T2D,41,H,F,alpha
+Sample_1137,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1138,T2D 4,T2D,41,H,F,alpha
+Sample_1139,T2D 4,T2D,41,H,F,alpha
+Sample_1140,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1141,T2D 4,T2D,41,H,F,alpha
+Sample_1142,T2D 4,T2D,41,H,F,alpha
+Sample_1143,T2D 4,T2D,41,H,F,alpha
+Sample_1144,T2D 4,T2D,41,H,F,alpha
+Sample_1145,T2D 4,T2D,41,H,F,alpha
+Sample_1146,T2D 4,T2D,41,H,F,alpha
+Sample_1147,T2D 4,T2D,41,H,F,alpha
+Sample_1148,T2D 4,T2D,41,H,F,alpha
+Sample_1149,T2D 4,T2D,41,H,F,alpha
+Sample_1150,T2D 4,T2D,41,H,F,alpha
+Sample_1151,T2D 4,T2D,41,H,F,alpha
+Sample_1152,T2D 4,T2D,41,H,F,alpha
+Sample_1153,T2D 4,T2D,41,H,F,alpha
+Sample_1154,T2D 4,T2D,41,H,F,alpha
+Sample_1155,T2D 4,T2D,41,H,F,alpha
+Sample_1156,T2D 4,T2D,41,H,F,alpha
+Sample_1157,T2D 4,T2D,41,H,F,alpha
+Sample_1158,T2D 4,T2D,41,H,F,alpha
+Sample_1159,T2D 4,T2D,41,H,F,alpha
+Sample_1160,T2D 4,T2D,41,H,F,alpha
+Sample_1161,T2D 4,T2D,41,H,F,alpha
+Sample_1162,T2D 4,T2D,41,H,F,alpha
+Sample_1163,T2D 4,T2D,41,H,F,alpha
+Sample_1164,T2D 4,T2D,41,H,F,alpha
+Sample_1165,T2D 4,T2D,41,H,F,alpha
+Sample_1166,T2D 4,T2D,41,H,F,alpha
+Sample_1167,T2D 4,T2D,41,H,F,alpha
+Sample_1168,T2D 4,T2D,41,H,F,alpha
+Sample_1169,T2D 4,T2D,41,H,F,alpha
+Sample_1170,T2D 4,T2D,41,H,F,alpha
+Sample_1171,T2D 4,T2D,41,H,F,alpha
+Sample_1172,T2D 4,T2D,41,H,F,alpha
+Sample_1173,T2D 4,T2D,41,H,F,alpha
+Sample_1174,T2D 4,T2D,41,H,F,alpha
+Sample_1175,T2D 4,T2D,41,H,F,alpha
+Sample_1176,T2D 4,T2D,41,H,F,alpha
+Sample_1177,T2D 4,T2D,41,H,F,alpha
+Sample_1178,T2D 4,T2D,41,H,F,alpha
+Sample_1179,T2D 4,T2D,41,H,F,alpha
+Sample_1180,T2D 4,T2D,41,H,F,alpha
+Sample_1181,T2D 4,T2D,41,H,F,alpha
+Sample_1182,T2D 4,T2D,41,H,F,alpha
+Sample_1183,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1184,T2D 4,T2D,41,H,F,alpha.contaminated
+Sample_1185,T2D 4,T2D,41,H,F,alpha
+Sample_1186,T2D 4,T2D,41,H,F,alpha
+Sample_1187,T2D 4,T2D,41,H,F,alpha
+Sample_1188,T2D 4,T2D,41,H,F,alpha
+Sample_1189,T2D 1,T2D,57,AA,M,alpha
+Sample_1190,T2D 1,T2D,57,AA,M,alpha
+Sample_1191,T2D 1,T2D,57,AA,M,alpha
+Sample_1192,T2D 1,T2D,57,AA,M,alpha
+Sample_1193,T2D 1,T2D,57,AA,M,alpha
+Sample_1194,T2D 1,T2D,57,AA,M,alpha
+Sample_1195,T2D 1,T2D,57,AA,M,alpha
+Sample_1196,T2D 1,T2D,57,AA,M,alpha
+Sample_1197,T2D 1,T2D,57,AA,M,alpha
+Sample_1198,T2D 1,T2D,57,AA,M,alpha
+Sample_1199,T2D 2,T2D,37,C,F,alpha
+Sample_1200,T2D 2,T2D,37,C,F,alpha
+Sample_1201,T2D 2,T2D,37,C,F,alpha
+Sample_1202,T2D 2,T2D,37,C,F,alpha
+Sample_1203,T2D 2,T2D,37,C,F,alpha
+Sample_1204,T2D 2,T2D,37,C,F,alpha
+Sample_1205,T2D 2,T2D,37,C,F,alpha
+Sample_1206,T2D 2,T2D,37,C,F,alpha
+Sample_1207,T2D 2,T2D,37,C,F,alpha
+Sample_1208,T2D 2,T2D,37,C,F,alpha
+Sample_1209,T2D 2,T2D,37,C,F,alpha
+Sample_1210,T2D 2,T2D,37,C,F,alpha
+Sample_1211,T2D 2,T2D,37,C,F,alpha
+Sample_1212,T2D 2,T2D,37,C,F,alpha
+Sample_1213,T2D 2,T2D,37,C,F,alpha
+Sample_1214,T2D 2,T2D,37,C,F,alpha
+Sample_1215,T2D 2,T2D,37,C,F,alpha
+Sample_1216,T2D 2,T2D,37,C,F,alpha
+Sample_1217,T2D 2,T2D,37,C,F,alpha
+Sample_1218,T2D 2,T2D,37,C,F,alpha
+Sample_1219,T2D 2,T2D,37,C,F,alpha
+Sample_1220,T2D 2,T2D,37,C,F,alpha
+Sample_1221,T2D 2,T2D,37,C,F,alpha
+Sample_1222,T2D 5,T2D,42,C,M,alpha
+Sample_1223,T2D 5,T2D,42,C,M,alpha
+Sample_1224,T2D 5,T2D,42,C,M,alpha
+Sample_1225,T2D 5,T2D,42,C,M,alpha
+Sample_1226,T2D 5,T2D,42,C,M,alpha
+Sample_1227,T2D 5,T2D,42,C,M,alpha
+Sample_1228,T2D 5,T2D,42,C,M,alpha
+Sample_1229,T2D 5,T2D,42,C,M,alpha
+Sample_1230,T2D 5,T2D,42,C,M,alpha
+Sample_1231,T2D 5,T2D,42,C,M,alpha
+Sample_1232,T2D 5,T2D,42,C,M,alpha
+Sample_1233,T2D 5,T2D,42,C,M,alpha
+Sample_1234,T2D 5,T2D,42,C,M,alpha
+Sample_1235,T2D 5,T2D,42,C,M,alpha
+Sample_1236,T2D 5,T2D,42,C,M,alpha
+Sample_1237,T2D 5,T2D,42,C,M,alpha
+Sample_1238,T2D 5,T2D,42,C,M,alpha
+Sample_1239,T2D 5,T2D,42,C,M,alpha
+Sample_1240,T2D 5,T2D,42,C,M,alpha
+Sample_1241,T2D 5,T2D,42,C,M,alpha
+Sample_1242,T2D 5,T2D,42,C,M,alpha
+Sample_1243,T2D 5,T2D,42,C,M,alpha
+Sample_1244,T2D 5,T2D,42,C,M,alpha
+Sample_1245,T2D 5,T2D,42,C,M,alpha
+Sample_1246,T2D 5,T2D,42,C,M,alpha
+Sample_1247,T2D 5,T2D,42,C,M,alpha
+Sample_1248,T2D 5,T2D,42,C,M,alpha
+Sample_1249,T2D 5,T2D,42,C,M,alpha
+Sample_1250,T2D 5,T2D,42,C,M,alpha
+Sample_1251,T2D 5,T2D,42,C,M,alpha
+Sample_1252,T2D 5,T2D,42,C,M,alpha
+Sample_1253,T2D 5,T2D,42,C,M,alpha
+Sample_1254,T2D 5,T2D,42,C,M,alpha
+Sample_1255,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1256,T2D 5,T2D,42,C,M,alpha
+Sample_1257,T2D 5,T2D,42,C,M,alpha
+Sample_1258,T2D 5,T2D,42,C,M,alpha
+Sample_1259,T2D 5,T2D,42,C,M,alpha
+Sample_1260,T2D 5,T2D,42,C,M,alpha
+Sample_1261,T2D 5,T2D,42,C,M,alpha
+Sample_1262,T2D 5,T2D,42,C,M,alpha
+Sample_1263,T2D 5,T2D,42,C,M,alpha
+Sample_1264,T2D 5,T2D,42,C,M,alpha
+Sample_1265,T2D 5,T2D,42,C,M,alpha
+Sample_1266,T2D 5,T2D,42,C,M,alpha
+Sample_1267,T2D 5,T2D,42,C,M,alpha
+Sample_1268,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1269,T2D 5,T2D,42,C,M,alpha
+Sample_1270,T2D 5,T2D,42,C,M,alpha
+Sample_1271,T2D 5,T2D,42,C,M,alpha
+Sample_1272,T2D 5,T2D,42,C,M,alpha
+Sample_1273,T2D 5,T2D,42,C,M,alpha
+Sample_1274,T2D 5,T2D,42,C,M,alpha
+Sample_1275,T2D 5,T2D,42,C,M,alpha
+Sample_1276,T2D 5,T2D,42,C,M,alpha
+Sample_1277,T2D 5,T2D,42,C,M,alpha
+Sample_1278,T2D 5,T2D,42,C,M,alpha
+Sample_1279,T2D 5,T2D,42,C,M,alpha
+Sample_1280,T2D 5,T2D,42,C,M,alpha
+Sample_1281,T2D 5,T2D,42,C,M,alpha
+Sample_1282,T2D 5,T2D,42,C,M,alpha
+Sample_1283,T2D 5,T2D,42,C,M,alpha
+Sample_1284,T2D 5,T2D,42,C,M,alpha
+Sample_1285,T2D 5,T2D,42,C,M,alpha
+Sample_1286,T2D 5,T2D,42,C,M,alpha
+Sample_1287,T2D 5,T2D,42,C,M,alpha
+Sample_1288,T2D 5,T2D,42,C,M,alpha
+Sample_1289,T2D 5,T2D,42,C,M,alpha
+Sample_1290,T2D 5,T2D,42,C,M,alpha
+Sample_1291,T2D 5,T2D,42,C,M,alpha
+Sample_1292,T2D 5,T2D,42,C,M,alpha
+Sample_1293,T2D 5,T2D,42,C,M,alpha
+Sample_1294,T2D 5,T2D,42,C,M,alpha
+Sample_1295,T2D 5,T2D,42,C,M,alpha
+Sample_1296,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1297,T2D 5,T2D,42,C,M,alpha
+Sample_1298,T2D 5,T2D,42,C,M,alpha
+Sample_1299,T2D 5,T2D,42,C,M,alpha
+Sample_1300,T2D 5,T2D,42,C,M,alpha
+Sample_1301,T2D 5,T2D,42,C,M,alpha
+Sample_1302,T2D 5,T2D,42,C,M,alpha
+Sample_1303,T2D 5,T2D,42,C,M,alpha
+Sample_1304,T2D 5,T2D,42,C,M,alpha
+Sample_1305,T2D 5,T2D,42,C,M,alpha
+Sample_1306,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1307,T2D 5,T2D,42,C,M,alpha
+Sample_1308,T2D 5,T2D,42,C,M,alpha
+Sample_1309,T2D 5,T2D,42,C,M,alpha
+Sample_1310,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1311,T2D 5,T2D,42,C,M,alpha
+Sample_1312,T2D 5,T2D,42,C,M,alpha
+Sample_1313,T2D 5,T2D,42,C,M,alpha
+Sample_1314,T2D 5,T2D,42,C,M,alpha
+Sample_1315,T2D 5,T2D,42,C,M,alpha
+Sample_1316,T2D 5,T2D,42,C,M,alpha
+Sample_1317,T2D 5,T2D,42,C,M,alpha
+Sample_1318,T2D 5,T2D,42,C,M,alpha
+Sample_1319,T2D 5,T2D,42,C,M,alpha
+Sample_1320,T2D 5,T2D,42,C,M,alpha
+Sample_1321,T2D 5,T2D,42,C,M,alpha
+Sample_1322,T2D 5,T2D,42,C,M,alpha
+Sample_1323,T2D 5,T2D,42,C,M,alpha
+Sample_1324,T2D 5,T2D,42,C,M,alpha
+Sample_1325,T2D 5,T2D,42,C,M,alpha
+Sample_1326,T2D 5,T2D,42,C,M,alpha
+Sample_1327,T2D 5,T2D,42,C,M,alpha
+Sample_1328,T2D 5,T2D,42,C,M,alpha
+Sample_1329,T2D 5,T2D,42,C,M,alpha
+Sample_1330,T2D 5,T2D,42,C,M,alpha
+Sample_1331,T2D 5,T2D,42,C,M,alpha
+Sample_1332,T2D 5,T2D,42,C,M,alpha
+Sample_1333,T2D 5,T2D,42,C,M,alpha
+Sample_1334,T2D 5,T2D,42,C,M,alpha
+Sample_1335,T2D 5,T2D,42,C,M,alpha
+Sample_1336,T2D 5,T2D,42,C,M,alpha
+Sample_1337,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1338,T2D 5,T2D,42,C,M,alpha
+Sample_1339,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1340,T2D 5,T2D,42,C,M,alpha
+Sample_1341,T2D 5,T2D,42,C,M,alpha
+Sample_1342,T2D 5,T2D,42,C,M,alpha
+Sample_1343,T2D 5,T2D,42,C,M,alpha
+Sample_1344,T2D 5,T2D,42,C,M,alpha
+Sample_1345,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1346,T2D 5,T2D,42,C,M,alpha
+Sample_1347,T2D 5,T2D,42,C,M,alpha
+Sample_1348,T2D 5,T2D,42,C,M,alpha
+Sample_1349,T2D 5,T2D,42,C,M,alpha
+Sample_1350,T2D 5,T2D,42,C,M,alpha
+Sample_1351,T2D 5,T2D,42,C,M,alpha
+Sample_1352,T2D 5,T2D,42,C,M,alpha
+Sample_1353,T2D 5,T2D,42,C,M,alpha
+Sample_1354,T2D 5,T2D,42,C,M,alpha
+Sample_1355,T2D 5,T2D,42,C,M,alpha
+Sample_1356,T2D 5,T2D,42,C,M,alpha
+Sample_1357,T2D 5,T2D,42,C,M,alpha
+Sample_1358,T2D 5,T2D,42,C,M,alpha
+Sample_1359,T2D 5,T2D,42,C,M,alpha
+Sample_1360,T2D 5,T2D,42,C,M,alpha
+Sample_1361,T2D 5,T2D,42,C,M,alpha
+Sample_1362,T2D 5,T2D,42,C,M,alpha
+Sample_1363,T2D 5,T2D,42,C,M,alpha
+Sample_1364,T2D 5,T2D,42,C,M,alpha
+Sample_1365,T2D 5,T2D,42,C,M,alpha
+Sample_1366,T2D 5,T2D,42,C,M,alpha
+Sample_1367,T2D 5,T2D,42,C,M,alpha
+Sample_1368,T2D 5,T2D,42,C,M,alpha
+Sample_1369,T2D 5,T2D,42,C,M,alpha
+Sample_1370,T2D 5,T2D,42,C,M,alpha
+Sample_1371,T2D 5,T2D,42,C,M,alpha
+Sample_1372,T2D 5,T2D,42,C,M,alpha
+Sample_1373,T2D 5,T2D,42,C,M,alpha
+Sample_1374,T2D 5,T2D,42,C,M,alpha
+Sample_1375,T2D 5,T2D,42,C,M,alpha
+Sample_1376,T2D 5,T2D,42,C,M,alpha.contaminated
+Sample_1377,T2D 5,T2D,42,C,M,alpha
+Sample_1378,T2D 5,T2D,42,C,M,alpha
+Sample_1379,T2D 5,T2D,42,C,M,alpha
+Sample_1380,T2D 5,T2D,42,C,M,alpha
+Sample_1381,T2D 5,T2D,42,C,M,alpha
+Sample_1382,T2D 5,T2D,42,C,M,alpha
+Sample_1383,T2D 6,T2D,51,H,M,alpha
+Sample_1384,T2D 6,T2D,51,H,M,alpha
+Sample_1385,T2D 6,T2D,51,H,M,alpha
+Sample_1386,T2D 6,T2D,51,H,M,alpha
+Sample_1387,T2D 6,T2D,51,H,M,alpha
+Sample_1388,T2D 6,T2D,51,H,M,alpha
+Sample_1389,T2D 6,T2D,51,H,M,alpha
+Sample_1390,T2D 6,T2D,51,H,M,alpha
+Sample_1391,T2D 6,T2D,51,H,M,alpha
+Sample_1392,T2D 6,T2D,51,H,M,alpha
+Sample_1393,T2D 6,T2D,51,H,M,alpha
+Sample_1394,T2D 6,T2D,51,H,M,alpha
+Sample_1395,T2D 6,T2D,51,H,M,alpha
+Sample_1396,T2D 6,T2D,51,H,M,alpha
+Sample_1397,T2D 6,T2D,51,H,M,alpha
+Sample_1398,T2D 6,T2D,51,H,M,alpha
+Sample_1399,T2D 6,T2D,51,H,M,alpha
+Sample_1400,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1401,T2D 6,T2D,51,H,M,alpha
+Sample_1402,T2D 6,T2D,51,H,M,alpha
+Sample_1403,T2D 6,T2D,51,H,M,alpha
+Sample_1404,T2D 6,T2D,51,H,M,alpha
+Sample_1405,T2D 6,T2D,51,H,M,alpha
+Sample_1406,T2D 6,T2D,51,H,M,alpha
+Sample_1407,T2D 6,T2D,51,H,M,alpha
+Sample_1408,T2D 6,T2D,51,H,M,alpha
+Sample_1409,T2D 6,T2D,51,H,M,alpha
+Sample_1410,T2D 6,T2D,51,H,M,alpha
+Sample_1411,T2D 6,T2D,51,H,M,alpha
+Sample_1412,T2D 6,T2D,51,H,M,alpha
+Sample_1413,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1414,T2D 6,T2D,51,H,M,alpha
+Sample_1415,T2D 6,T2D,51,H,M,alpha
+Sample_1416,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1417,T2D 6,T2D,51,H,M,alpha
+Sample_1418,T2D 6,T2D,51,H,M,alpha
+Sample_1419,T2D 6,T2D,51,H,M,alpha
+Sample_1420,T2D 6,T2D,51,H,M,alpha
+Sample_1421,T2D 6,T2D,51,H,M,alpha
+Sample_1422,T2D 6,T2D,51,H,M,alpha
+Sample_1423,T2D 6,T2D,51,H,M,alpha
+Sample_1424,T2D 6,T2D,51,H,M,alpha
+Sample_1425,T2D 6,T2D,51,H,M,alpha
+Sample_1426,T2D 6,T2D,51,H,M,alpha
+Sample_1427,T2D 6,T2D,51,H,M,alpha
+Sample_1428,T2D 6,T2D,51,H,M,alpha
+Sample_1429,T2D 6,T2D,51,H,M,alpha
+Sample_1430,T2D 6,T2D,51,H,M,alpha
+Sample_1431,T2D 6,T2D,51,H,M,alpha
+Sample_1432,T2D 6,T2D,51,H,M,alpha
+Sample_1433,T2D 6,T2D,51,H,M,alpha
+Sample_1434,T2D 6,T2D,51,H,M,alpha
+Sample_1435,T2D 6,T2D,51,H,M,alpha
+Sample_1436,T2D 6,T2D,51,H,M,alpha
+Sample_1437,T2D 6,T2D,51,H,M,alpha
+Sample_1438,T2D 6,T2D,51,H,M,alpha
+Sample_1439,T2D 6,T2D,51,H,M,alpha
+Sample_1440,T2D 6,T2D,51,H,M,alpha
+Sample_1441,T2D 6,T2D,51,H,M,alpha
+Sample_1442,T2D 6,T2D,51,H,M,alpha
+Sample_1443,T2D 6,T2D,51,H,M,alpha
+Sample_1444,T2D 6,T2D,51,H,M,alpha
+Sample_1445,T2D 6,T2D,51,H,M,alpha
+Sample_1446,T2D 6,T2D,51,H,M,alpha
+Sample_1447,T2D 6,T2D,51,H,M,alpha
+Sample_1448,T2D 6,T2D,51,H,M,alpha
+Sample_1449,T2D 6,T2D,51,H,M,alpha
+Sample_1450,T2D 6,T2D,51,H,M,alpha
+Sample_1451,T2D 6,T2D,51,H,M,alpha
+Sample_1452,T2D 6,T2D,51,H,M,alpha
+Sample_1453,T2D 6,T2D,51,H,M,alpha
+Sample_1454,T2D 6,T2D,51,H,M,alpha
+Sample_1455,T2D 6,T2D,51,H,M,alpha
+Sample_1456,T2D 6,T2D,51,H,M,alpha
+Sample_1457,T2D 6,T2D,51,H,M,alpha
+Sample_1458,T2D 6,T2D,51,H,M,alpha
+Sample_1459,T2D 6,T2D,51,H,M,alpha
+Sample_1460,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1461,T2D 6,T2D,51,H,M,alpha
+Sample_1462,T2D 6,T2D,51,H,M,alpha
+Sample_1463,T2D 6,T2D,51,H,M,alpha
+Sample_1464,T2D 6,T2D,51,H,M,alpha
+Sample_1465,T2D 6,T2D,51,H,M,alpha
+Sample_1466,T2D 6,T2D,51,H,M,alpha
+Sample_1467,T2D 6,T2D,51,H,M,alpha
+Sample_1468,T2D 6,T2D,51,H,M,alpha
+Sample_1469,T2D 6,T2D,51,H,M,alpha
+Sample_1470,T2D 6,T2D,51,H,M,alpha
+Sample_1471,T2D 6,T2D,51,H,M,alpha
+Sample_1472,T2D 6,T2D,51,H,M,alpha
+Sample_1473,T2D 6,T2D,51,H,M,alpha
+Sample_1474,T2D 6,T2D,51,H,M,alpha
+Sample_1475,T2D 6,T2D,51,H,M,alpha
+Sample_1476,T2D 6,T2D,51,H,M,alpha
+Sample_1477,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1478,T2D 6,T2D,51,H,M,alpha
+Sample_1479,T2D 6,T2D,51,H,M,alpha
+Sample_1480,T2D 6,T2D,51,H,M,alpha
+Sample_1481,T2D 6,T2D,51,H,M,alpha
+Sample_1482,T2D 6,T2D,51,H,M,alpha
+Sample_1483,T2D 6,T2D,51,H,M,alpha
+Sample_1484,T2D 6,T2D,51,H,M,alpha
+Sample_1485,T2D 6,T2D,51,H,M,alpha
+Sample_1486,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1487,T2D 6,T2D,51,H,M,alpha
+Sample_1488,T2D 6,T2D,51,H,M,alpha
+Sample_1489,T2D 6,T2D,51,H,M,alpha
+Sample_1490,T2D 6,T2D,51,H,M,alpha
+Sample_1491,T2D 6,T2D,51,H,M,alpha
+Sample_1492,T2D 6,T2D,51,H,M,alpha
+Sample_1493,T2D 6,T2D,51,H,M,alpha
+Sample_1494,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1495,T2D 6,T2D,51,H,M,alpha
+Sample_1496,T2D 6,T2D,51,H,M,alpha
+Sample_1497,T2D 6,T2D,51,H,M,alpha
+Sample_1498,T2D 6,T2D,51,H,M,alpha
+Sample_1499,T2D 6,T2D,51,H,M,alpha
+Sample_1500,T2D 6,T2D,51,H,M,alpha
+Sample_1501,T2D 6,T2D,51,H,M,alpha
+Sample_1502,T2D 6,T2D,51,H,M,alpha
+Sample_1503,T2D 6,T2D,51,H,M,alpha
+Sample_1504,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1505,T2D 6,T2D,51,H,M,alpha.contaminated
+Sample_1506,T2D 6,T2D,51,H,M,alpha
+Sample_1507,T2D 6,T2D,51,H,M,alpha
+Sample_1508,T2D 6,T2D,51,H,M,alpha
+Sample_1509,T2D 6,T2D,51,H,M,alpha
+Sample_1510,T2D 6,T2D,51,H,M,alpha
+Sample_1511,T2D 6,T2D,51,H,M,alpha
+Sample_1512,T2D 6,T2D,51,H,M,alpha
+Sample_1513,T2D 6,T2D,51,H,M,alpha
+Sample_1514,T2D 6,T2D,51,H,M,alpha
+Sample_1515,T2D 6,T2D,51,H,M,alpha
+Sample_1516,T2D 6,T2D,51,H,M,alpha
+Sample_1517,T2D 2,T2D,37,C,F,delta
+Sample_1518,T2D 2,T2D,37,C,F,delta
+Sample_1519,T2D 2,T2D,37,C,F,delta
+Sample_1520,T2D 3,T2D,55,C,F,delta.contaminated
+Sample_1521,T2D 3,T2D,55,C,F,delta.contaminated
+Sample_1522,T2D 1,T2D,57,AA,M,delta
+Sample_1523,T2D 1,T2D,57,AA,M,delta
+Sample_1524,T2D 1,T2D,57,AA,M,delta.contaminated
+Sample_1525,T2D 3,T2D,55,C,F,delta
+Sample_1526,T2D 3,T2D,55,C,F,delta
+Sample_1527,T2D 4,T2D,41,H,F,delta
+Sample_1528,T2D 4,T2D,41,H,F,delta
+Sample_1529,T2D 4,T2D,41,H,F,delta
+Sample_1530,T2D 4,T2D,41,H,F,delta.contaminated
+Sample_1531,T2D 4,T2D,41,H,F,delta.contaminated
+Sample_1532,T2D 4,T2D,41,H,F,delta.contaminated
+Sample_1533,T2D 4,T2D,41,H,F,delta
+Sample_1534,T2D 4,T2D,41,H,F,delta
+Sample_1535,T2D 1,T2D,57,AA,M,delta
+Sample_1536,T2D 2,T2D,37,C,F,delta
+Sample_1537,T2D 2,T2D,37,C,F,delta
+Sample_1538,T2D 5,T2D,42,C,M,delta
+Sample_1539,T2D 6,T2D,51,H,M,delta
+Sample_1540,T2D 6,T2D,51,H,M,delta
+Sample_1541,T2D 6,T2D,51,H,M,delta
+Sample_1542,T2D 6,T2D,51,H,M,delta
+Sample_1543,T2D 6,T2D,51,H,M,delta.contaminated
+Sample_1544,T2D 6,T2D,51,H,M,delta.contaminated
+Sample_1545,T2D 6,T2D,51,H,M,delta.contaminated
+Sample_1546,T2D 6,T2D,51,H,M,delta
+Sample_1547,T2D 2,T2D,37,C,F,gamma
+Sample_1548,T2D 2,T2D,37,C,F,gamma
+Sample_1549,T2D 2,T2D,37,C,F,gamma
+Sample_1550,T2D 2,T2D,37,C,F,gamma
+Sample_1551,T2D 2,T2D,37,C,F,gamma
+Sample_1552,T2D 2,T2D,37,C,F,gamma
+Sample_1553,T2D 2,T2D,37,C,F,gamma
+Sample_1554,T2D 2,T2D,37,C,F,gamma
+Sample_1555,T2D 2,T2D,37,C,F,gamma
+Sample_1556,T2D 3,T2D,55,C,F,gamma
+Sample_1557,T2D 1,T2D,57,AA,M,gamma
+Sample_1558,T2D 1,T2D,57,AA,M,gamma
+Sample_1559,T2D 1,T2D,57,AA,M,gamma
+Sample_1560,T2D 1,T2D,57,AA,M,gamma
+Sample_1561,T2D 1,T2D,57,AA,M,gamma
+Sample_1562,T2D 3,T2D,55,C,F,gamma
+Sample_1563,T2D 3,T2D,55,C,F,gamma
+Sample_1564,T2D 1,T2D,57,AA,M,gamma
+Sample_1565,T2D 1,T2D,57,AA,M,gamma
+Sample_1566,T2D 1,T2D,57,AA,M,gamma
+Sample_1567,T2D 1,T2D,57,AA,M,gamma
+Sample_1568,T2D 1,T2D,57,AA,M,gamma
+Sample_1569,T2D 4,T2D,41,H,F,gamma
+Sample_1570,T2D 4,T2D,41,H,F,gamma
+Sample_1571,T2D 1,T2D,57,AA,M,gamma
+Sample_1572,T2D 1,T2D,57,AA,M,gamma
+Sample_1573,T2D 1,T2D,57,AA,M,gamma
+Sample_1574,T2D 1,T2D,57,AA,M,gamma
+Sample_1575,T2D 1,T2D,57,AA,M,gamma
+Sample_1576,T2D 1,T2D,57,AA,M,gamma
+Sample_1577,T2D 1,T2D,57,AA,M,gamma
+Sample_1578,T2D 1,T2D,57,AA,M,gamma
+Sample_1579,T2D 1,T2D,57,AA,M,gamma
+Sample_1580,T2D 1,T2D,57,AA,M,gamma
+Sample_1581,T2D 1,T2D,57,AA,M,gamma
+Sample_1582,T2D 1,T2D,57,AA,M,gamma
+Sample_1583,T2D 1,T2D,57,AA,M,gamma
+Sample_1584,T2D 1,T2D,57,AA,M,gamma
+Sample_1585,T2D 1,T2D,57,AA,M,gamma
+Sample_1586,T2D 1,T2D,57,AA,M,gamma
+Sample_1587,T2D 1,T2D,57,AA,M,gamma
+Sample_1588,T2D 1,T2D,57,AA,M,gamma
+Sample_1589,T2D 1,T2D,57,AA,M,gamma
+Sample_1590,T2D 1,T2D,57,AA,M,gamma
+Sample_1591,T2D 1,T2D,57,AA,M,gamma
+Sample_1592,T2D 1,T2D,57,AA,M,gamma
+Sample_1593,T2D 1,T2D,57,AA,M,gamma
+Sample_1594,T2D 1,T2D,57,AA,M,gamma
+Sample_1595,T2D 1,T2D,57,AA,M,gamma
+Sample_1596,T2D 1,T2D,57,AA,M,gamma.contaminated
+Sample_1597,T2D 2,T2D,37,C,F,gamma
+Sample_1598,T2D 5,T2D,42,C,M,gamma
+Sample_1599,T2D 5,T2D,42,C,M,gamma.contaminated
+Sample_1600,T2D 6,T2D,51,H,M,gamma
